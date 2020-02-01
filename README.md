@@ -9,4 +9,6 @@ My output had to be:
 * my_submission.csv
 * ipynb file
 
-In ipynb file I had to compare different types of ML models and show lever of accuracy in predictions. 
+In ipynb file I had to compare different types of ML models and show lever of accuracy in predictions.
+
+I used GaussianNB and Random Forest Regression with accuracy 0.0046 and 
